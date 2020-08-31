@@ -10,6 +10,8 @@ In this exercise, a regularized linear regression is created and applied study m
 This set includes:
 - ex5.mlx - MATLAB Live Script that steps you through the exercise 
 
+- ex5.pdf - Information for this exercise
+
 - ex5data1.mat - Dataset 
 
 - submit.m - Submission script that sends your solutions to our servers 
