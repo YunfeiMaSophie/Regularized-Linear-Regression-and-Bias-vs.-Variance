@@ -1,5 +1,5 @@
 # Regularized-Linear-Regression-and-Bias-vs.-Variance
-Programming assignment 1 in Machine Learning course by Andrew Ng on Coursera.
+Programming assignment 5 in Machine Learning course by Andrew Ng on Coursera.
 
 The course info can be found here https://class.coursera.org/ml-004/class/index.
 
